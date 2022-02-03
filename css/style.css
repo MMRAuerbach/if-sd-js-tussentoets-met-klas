@@ -1,0 +1,24 @@
+*{
+    margin:0;padding:0;
+}
+body, html{
+    font-family: Monospace ;
+}
+
+body{
+    text-align: center;   
+    font-size: 1.6em;
+    background:#f2f2f2;
+}
+h1{
+    /* font-size: 3em; */
+text-decoration: underline;
+}
+
+h1+p{
+    font-style: oblique;
+    margin-bottom:29px;
+}
+h2{
+    margin-top:10px;
+}
